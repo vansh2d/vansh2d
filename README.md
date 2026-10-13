@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vansh2d
-- 👀 I’m interested in coding, design and video editing
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on python projects
+- 👀 I’m interested in AI, Business Analytics and Design
+- 🌱 I’m currently learning Machine Learning and Agentic AI
+- 💞️ I’m looking to collaborate on AI projects
 - 📫 Reach me @ vansh2d@gmail.com
 
 <!---
